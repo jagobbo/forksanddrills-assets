@@ -32,6 +32,4 @@ This set are designed by L'ubomir Zabadal to different fine graphics techniques 
 
 Brush set thought originally to GIMP 2.6.+ and 2.8.+ released in 2012
 
-Testing: José Americo Gobbo [http://americogobbo.com.br], Mozart Couto [http://blogdodesenhador.blogspot.com.br/] and L'ubomir Zabadal.
-
 License: GPL 3.0
